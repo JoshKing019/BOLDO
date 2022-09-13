@@ -111,8 +111,21 @@ html,body{
     outline: none;
 }
 
+.obo{
+    padding-top: 100px;
+}
+
 .atag a{
     text-decoration: none;
+}
+
+.atagg{
+    text-decoration: none;
+    padding: 0 80px;
+}
+
+.atagg a{
+ text-decoration: none;
 }
 .btn4{
     background-color:rgb(10,38,64);
