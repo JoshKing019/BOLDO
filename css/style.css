@@ -26,9 +26,6 @@ html,body{
 .nav-link:hover{
     color: #fff;
 }
-.cardpart img{
-    width:23rem;
-}
 
 .stated h4{
     box-shadow: 3px 3px 3px rgb(228, 228, 228);
