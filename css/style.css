@@ -13,7 +13,7 @@ html,body{
 .navbar{
     background-color: rgb(10,38,64);
     padding: 40px 0;
-}
+} 
 
 .nav-link{
     color: #fff;
@@ -87,7 +87,7 @@ html,body{
 }
 .btn23{
     background-color:rgb(124,232,177);
-    padding: 15px 40px;
+    padding: 12px 20px;
     border-radius: 70px;
     border: none;     
 }
@@ -99,7 +99,7 @@ html,body{
 }
 
 .btn222{
-    padding: 20px 250px;
+    padding: 20px 350px;
     border: none;
     border-radius: 70px !important;
 }
@@ -131,7 +131,7 @@ html,body{
     color: #fff;
 }
 #by{
-    padding: 0 30px;
+    /* padding: 0 30px; */
 }
 
 .btn:hover{
@@ -139,7 +139,7 @@ html,body{
 }
 
 #bg{
-    padding: 0 30px;
+    /* padding: 0 30px; */
 }
 
 .card-title{
